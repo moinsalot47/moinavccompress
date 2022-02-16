@@ -11,7 +11,7 @@
 #    General Public License for more details.
 #
 # License can be found in
-# <https://github.com/1Danish-00/CompressorQueue/blob/main/License> .
+# <https://github.com/Salotmoin47/moinavccompress/blob/main/License> .
 
 
 from . import *
